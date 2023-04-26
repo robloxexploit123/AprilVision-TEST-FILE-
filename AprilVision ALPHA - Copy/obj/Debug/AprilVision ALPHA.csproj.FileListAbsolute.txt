@@ -1,0 +1,14 @@
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\bin\Debug\AprilVision ALPHA.exe.config
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\bin\Debug\AprilVision ALPHA.exe
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\bin\Debug\AprilVision ALPHA.pdb
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\bin\Debug\FastColoredTextBox.dll
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\bin\Debug\Siticone.UI.dll
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision_ALPHA.Properties.Resources.resources
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision ALPHA.csproj.GenerateResource.cache
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision ALPHA.csproj.CoreCompileInputs.cache
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision ALPHA.csproj.CopyComplete
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision ALPHA.exe
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision ALPHA.pdb
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision_ALPHA.HomeUI.resources
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision_ALPHA.LoaderUI.resources
+C:\Users\Collin\source\repos\AprilVision ALPHA\AprilVision ALPHA\obj\Debug\AprilVision_ALPHA.MainUI.resources
